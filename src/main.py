@@ -33,6 +33,10 @@ def main():
 
     print(f"\nTotal: {len(students)} students")
 
+    def add_student():
+    """Thêm sinh viên mới (tính năng add-student)"""
+    print("Chức năng thêm sinh viên đang được thực thi...")
+
 
 if __name__ == "__main__":
     main()
